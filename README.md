@@ -26,11 +26,18 @@ AI 技术发展很快，新概念不断出现。
 
 大模型出现 → 聊天机器人普及 → Prompt 成为入口 → 工具调用增强能力 → 插件和 API 连接外部服务 → AI 编程工具爆发 → Agent 开始执行任务 → MCP 尝试统一连接标准 → Skills 封装专项能力 → 普通人开始搭建自己的 AI 工作流。
 
+## 快速入口
+
+- [第 01 期长文：为什么 AI 新词越来越多？](docs/00-preface/why-ai-new-terms.md)
+- [第 01 期短视频脚本](scripts/short-video-scripts/01-why-ai-new-terms.md)
+- [第 01 期图文卡片文案](cards/copywriting/01-why-ai-new-terms.md)
+- [官方资料与参考链接](references/official-docs.md)
+
 ## 第一季：普通人看懂 AI 新时代
 
 | 期数 | 主题 | 状态 |
 |---|---|---|
-| 01 | 为什么 AI 新词越来越多？ | 写作中 |
+| 01 | [为什么 AI 新词越来越多？](docs/00-preface/why-ai-new-terms.md) | 已完成 |
 | 02 | 什么是大语言模型？ | 计划中 |
 | 03 | GPT、Claude、Gemini、DeepSeek 有什么区别？ | 计划中 |
 | 04 | Prompt 是什么？ | 计划中 |
